@@ -1,0 +1,3 @@
+D:/sitp/f407_drive_remake/cmake-build-debug-mingw_my/CMakeFiles/f407_drive_remake.elf.dir
+D:/sitp/f407_drive_remake/cmake-build-debug-mingw_my/CMakeFiles/edit_cache.dir
+D:/sitp/f407_drive_remake/cmake-build-debug-mingw_my/CMakeFiles/rebuild_cache.dir
